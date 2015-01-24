@@ -8,6 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.52;
   background-color: #1F4985;
+  background-image: url("/background-low.jpg");
   background-image: url("/background.jpg");
   background-repeat: repeat-x;
   background-size: 100% auto;

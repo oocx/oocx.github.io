@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OutOfCoffeeException 2.0</title>
+    <atom:link href="http://localhost:9090/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:9090</link>
+    <description>Ein Blog über Segelfliegen und Software-Entwicklung</description>
+    <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>de</language>
+    <item>
+      <title>OutOfCoffeException 2.0 - mein neues, altes Blog</title>
+      <link>http://localhost:9090/articles/ein-neues-blog/</link>
+      <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:9090/articles/ein-neues-blog/</guid>
+      <author></author>
+      <description>&lt;p&gt;OutOfCoffeeException ist wieder da. Ein kurzer Rückblick und ein Ausblick auf die Themen, über die ich bloggen möchte.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Von ca. 2006 bis 2011 hatte ich bereits unter &lt;a href=&quot;http://www.outofcoffeeexception.de&quot;&gt;http://www.outofcoffeeexception.de&lt;/a&gt;
+gebloggt. Damals ging es in meinem Blog hauptsächlich um .NET Entwicklung,
+manchmal aber auch um eher private Themen.&lt;/p&gt;
+&lt;p&gt;Ich habe dann einige Jahre nichts mehr geschrieben und mein Blog irgendwann
+eingestellt. Einerseits fehlte mir die Zeit dafür, andererseits hatte ich
+nicht mehr so wirklich Lust zum Schreiben.&lt;/p&gt;
+&lt;p&gt;Seit einiger Zeit beschäftigen mich aber wieder so viele interessante
+neue Themen und Technologien, dass ich einfach mal wieder darüber schreiben
+möchte. Deshalb habe ich mich entschieden, mein Blog wieder mit Leben
+zu füllen.&lt;/p&gt;
+&lt;p&gt;Das Themenspektrum wird breiter ausfallen als
+bei meinem alten Blog. Ich beschäftige mich zwar immer noch (auch) mit .NET,
+aber eben nicht nur damit. Andere Themen, die mich aktuell beschäftigen, sind
+z.B. Continuous Delivery / DevOps, Entwicklung von hybriden Apps mit AngularJS
+und Ionic, Windows Azure und Windows 10. Neben technischen Artikeln blogge ich
+vielleicht auch ab und zu über mein Lieblings-Hobby: Segelfliegen.&lt;/p&gt;
+&lt;p&gt;Inspiriert von &lt;a href=&quot;https://alexanderzeitler.com/articles/Farewell/&quot;&gt;Alex Zeitler&lt;/a&gt;
+habe ich mein neues Blog nicht mehr auf Basis von ASP.NET aufgesetzt,
+sondern mit &lt;a href=&quot;https://github.com/jnordberg/wintersmith&quot;&gt;Wintersmith&lt;/a&gt;.
+Wintersmith ist ein Generator für statische HTML Seiten. Wintersmith selbst
+läuft auf &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;. Gehosted wird mein Blog auf
+&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ich arbeite immer noch gern mit ASP.NET und finde, dass ASP.NET eine tolle
+und mächtige Platform ist. Aber ich möchte auch mal etwas neues ausprobieren.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Buchempfehlung: The Phoenix Project</title>
+      <link>http://localhost:9090/articles/the-phoenix-project/</link>
+      <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:9090/articles/the-phoenix-project/</guid>
+      <author></author>
+      <description>&lt;p&gt;Eine Einführung in DevOps, die das Thema anhand einer Geschichte erklärt. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;The Phoenix Project&quot; src=&quot;/articles/the-phoenix-project/cover.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://itrevolution.com/books/phoenix-project-devops-book/&quot;&gt;“The Phoenix Project”&lt;/a&gt;
+beschreibt das Thema DevOps in Form einer Erzählung.&lt;/p&gt;
+&lt;p&gt;DevOps ist ein Kunstwort aus “Development” und “Operations”. Dahinter steckt
+die Idee, dass Entwicklung und IT in Projekten enger zusammen arbeiten
+sollen, um dadurch Software schneller und in besserer Qualität erstellen
+und ausliefern zu können. Entwicklunng und IT sollen also als ein Team
+zusammenarbeiten, statt als zwei getrennte Bereiche, die sich bei Problemen
+gegenseitig die Schuld zuweisen statt zusammen an einer Lösung zu arbeiten.&lt;/p&gt;
+&lt;p&gt;Das Buch geht das Thema nicht als langweiliges und trockenes Fachbuch an.
+Stattdessen wird die Geschichte von Bill Palmer beschrieben. Bill arbeitet
+bei Parts Unlimited, einem Hersteller von Autoteilen. Dort wird er
+unerwartet zum Vice President für IT Operations befördert, nachdem sowohl
+sein Vorgänger als auch der CIO die Firma wegen der vielen IT Probleme
+verlassen mussten.&lt;/p&gt;
+&lt;p&gt;Parts Unlimited kämpft dabei mit ständigen Ausfällen wichtiger Systeme
+und verspäteten Projekten. Insbesondere bei Projekt Phoenix, von dem die
+Zukunft des Unternehmens abhängt, läuft eigentlich alles falsch was nur
+falsch laufen kann.&lt;/p&gt;
+&lt;p&gt;Mit Unterstützung eines Mentors schafft es Bill im Verlauf der Geschichte,
+die Probleme nach und nach in den Griff zu bekommen, indem er verschiedene
+DevOps Praktiken kennenlernt und anwendet.&lt;/p&gt;
+&lt;p&gt;“The Phoenix Project” bietet eine gelungene Kombination aus Unterhaltung
+und Vermittlung von Fachwissen. Durch die Vermittlung des Wissens in Form
+einer Geschichte dürfte es das erste Fachbuch sein, das ich tatsächlich von
+Anfang bis Ende durchgelesen habe.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

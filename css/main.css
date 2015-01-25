@@ -247,9 +247,18 @@ footer .copy, footer .copy a {
 }
 
 .article .content img.original  {
-  display: block;  
+  display: block;
   float: right;
   margin: 20px 0 20px 20px;
+}
+
+.article .content img.centered  {
+  display: block;
+  float: none;
+  text-align: center;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 

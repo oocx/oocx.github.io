@@ -234,7 +234,7 @@ footer .copy, footer .copy a {
   padding-left: 0.5em;
 }
 
-.article .content img {
+.article .content img.wide {
   display: block;
   width: 100%;
 }
@@ -245,6 +245,13 @@ footer .copy, footer .copy a {
   float: right;
   margin: 20px 0 20px 20px;
 }
+
+.article .content img.original  {
+  display: block;  
+  float: right;
+  margin: 20px 0 20px 20px;
+}
+
 
 .more, .date {
   font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;

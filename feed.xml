@@ -5,9 +5,43 @@
     <atom:link href="http://localhost:9090/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:9090</link>
     <description>Ein Blog über Segelfliegen und Software-Entwicklung</description>
-    <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
+    <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>de</language>
+    <item>
+      <title>Sleep mit nur einem Klick direkt aus der Task-Leiste</title>
+      <link>http://localhost:9090/articles/sleep-in-der-taskleiste/</link>
+      <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:9090/articles/sleep-in-der-taskleiste/</guid>
+      <author></author>
+      <description>&lt;p&gt;Mit wenig Aufwand kann man sich einen Sleep-Button direkt in die
+Task-Leiste bauen.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unter Windows 8.1 habe ich mir angewöhnt, den Rechner über Win+i
+herunter zu fahren bzw. in den Sleep Modus zu schalten. In Windows 10
+funktioniert das nicht mehr, im neuen Settings Menü fehlt das Menü
+zum Herunterfahren.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;psshutdown Eigenschaften&quot; src=&quot;/articles/sleep-in-der-taskleiste/psshutdown-properties.PNG&quot; class=&quot;original&quot; /&gt;
+Eine Sleep-Funktion kann man sich aber schnell und einfach selbst in die
+Task-Leiste bauen. Dazu braucht man einfach nur einen Shortcut auf
+psshutdown aus der &lt;a href=&quot;https://technet.microsoft.com/de-de/sysinternals/bb842062&quot;&gt;Sysinternals Suite&lt;/a&gt;. Die sollte
+man sowieso auf jeden Rechner installieren, allein schon wegen dem
+Sysinternals Process Explorer. Also einfach im Explorer den Ordner mit
+psshutdown öffnen, rechtsklicken, “Pin to taskbar”. In der Task Bar dann
+Rechtsklick auf den neuen Shortcut, in dem Menü das sich öffnet noch ein
+Rechtsklick auf “Shutdown, logoff …”, dann auf Properties. Unter Target
+trägt man dann hinter psshutdown.exe noch die Argumente “-d -t 0” ein. Im
+Feld “Shortcut Key” lässt sich auch noch ein Tastasturshortcut vergeben,
+ich habe bei mir Strg+Alt+S eingestellt. Wenn’s auch noch schön aussehen soll
+kann man sich noch ein schönes Icondafür herunterladen und hier über
+“Change Icon” auswählen.&lt;/p&gt;
+&lt;p&gt;Icons findet man z.B. bei &lt;a href=&quot;https://www.iconfinder.com/icons/16948/power_standby_icon#size=128&quot;&gt;Iconfinder&lt;/a&gt;.
+Ich habe das Icon noch mit &lt;a href=&quot;http://www.getpaint.net/&quot;&gt;Paint.net&lt;/a&gt; invertiert,
+damit es besser zum Windows 10 Design passt. Da Paint.Net keine .ico Dateien
+speichern kann, musste ich das Icon noch mit &lt;a href=&quot;http://www.convertico.com/&quot;&gt;convertico.com&lt;/a&gt; von png nach ico konvertieren.&lt;/p&gt;
+&lt;p&gt;Und so sieht das Ergebnis aus:
+&lt;img alt=&quot;Sleep&quot; src=&quot;/articles/sleep-in-der-taskleiste/sleep-button-in-der-taskleiste.PNG&quot; class=&quot;original&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>OutOfCoffeException 2.0 - mein neues, altes Blog</title>
       <link>http://localhost:9090/articles/ein-neues-blog/</link>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OutOfCoffeeException 2.0</title>
-    <atom:link href="http://localhost:9090/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:9090</link>
+    <atom:link href="http://www.outofcoffeeexception.de/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.outofcoffeeexception.de</link>
     <description>Ein Blog über Segelfliegen und Software-Entwicklung</description>
     <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>de</language>
     <item>
       <title>Atom.io, ein moderner Ersatz für Notepad</title>
-      <link>http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</link>
+      <link>http://www.outofcoffeeexception.de/articles/atom-moderner-ersatz-fuer-notepad/</link>
       <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</guid>
+      <guid isPermaLink="true">http://www.outofcoffeeexception.de/articles/atom-moderner-ersatz-fuer-notepad/</guid>
       <author></author>
       <description>&lt;p&gt;Alternativen zu Notepad gibt es viele. Mit atom.io gibt es nun einen weiteren
 Editor auf Basis aktueller Technologien (Web / Javascript) und mit vielen
@@ -39,9 +39,9 @@ Wintersmith Blogbeiträge zu erstellen und zu veröffentlichen.&lt;/p&gt;
     </item>
     <item>
       <title>Sleep mit nur einem Klick direkt aus der Task-Leiste</title>
-      <link>http://localhost:9090/articles/sleep-in-der-taskleiste/</link>
+      <link>http://www.outofcoffeeexception.de/articles/sleep-in-der-taskleiste/</link>
       <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:9090/articles/sleep-in-der-taskleiste/</guid>
+      <guid isPermaLink="true">http://www.outofcoffeeexception.de/articles/sleep-in-der-taskleiste/</guid>
       <author></author>
       <description>&lt;p&gt;Mit wenig Aufwand kann man sich einen Sleep-Button direkt in die
 Task-Leiste bauen.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -73,9 +73,9 @@ speichern kann, musste ich das Icon noch mit &lt;a href=&quot;http://www.convert
     </item>
     <item>
       <title>OutOfCoffeException 2.0 - mein neues, altes Blog</title>
-      <link>http://localhost:9090/articles/ein-neues-blog/</link>
+      <link>http://www.outofcoffeeexception.de/articles/ein-neues-blog/</link>
       <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:9090/articles/ein-neues-blog/</guid>
+      <guid isPermaLink="true">http://www.outofcoffeeexception.de/articles/ein-neues-blog/</guid>
       <author></author>
       <description>&lt;p&gt;OutOfCoffeeException ist wieder da. Ein kurzer Rückblick und ein Ausblick auf die Themen, über die ich bloggen möchte.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Von ca. 2006 bis 2011 hatte ich bereits unter &lt;a href=&quot;http://www.outofcoffeeexception.de&quot;&gt;http://www.outofcoffeeexception.de&lt;/a&gt;
@@ -106,9 +106,9 @@ und mächtige Platform ist. Aber ich möchte auch mal etwas neues ausprobieren.&
     </item>
     <item>
       <title>Buchempfehlung: The Phoenix Project</title>
-      <link>http://localhost:9090/articles/the-phoenix-project/</link>
+      <link>http://www.outofcoffeeexception.de/articles/the-phoenix-project/</link>
       <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:9090/articles/the-phoenix-project/</guid>
+      <guid isPermaLink="true">http://www.outofcoffeeexception.de/articles/the-phoenix-project/</guid>
       <author></author>
       <description>&lt;p&gt;Eine Einführung in DevOps, die das Thema anhand einer Geschichte erklärt. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;The Phoenix Project&quot; src=&quot;/articles/the-phoenix-project/cover.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;

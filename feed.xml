@@ -9,6 +9,35 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>de</language>
     <item>
+      <title>Atom.io, ein moderner Ersatz für Notepad</title>
+      <link>http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</link>
+      <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</guid>
+      <author></author>
+      <description>&lt;p&gt;Alternativen zu Notepad gibt es viele. Mit atom.io gibt es nun einen weiteren
+Editor auf Basis aktueller Technologien (Web / Javascript) und mit vielen
+Erweiterungsmöglichkeiten. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;atom.png&quot; class=&quot;wide&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://atom.io&quot;&gt;Atom.io&lt;/a&gt; ist ein Editor, der auf Web-Technologien basiert.
+Die Oberfläche besteht aus HTML, CSS und JavaScript Code, im Hintergrund
+kommt Node.js zum Einsatz. Atom ist vor allem auf Anpassbarkeit und
+Erweiterbarkeit ausgelegt. In der Basisinstallation besteht Atom bereits
+aus ca. 70 Modulen (Packages). Weitere lassen sich einfach und Bequem über eine
+Paketverwaltung dazu installieren. Dabei ist die Auswahl sehr groß. Sucht
+man z.B. ein Paket, das CSS Farbangaben direkt im Editor als Farbe anzeigt,
+kann man sich gleich zwischen mehreren Varianten entscheiden.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;atom-packages.png&quot; class=&quot;wide&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Atom teste ich erst seit einigen Tagen, von daher kann ich noch nicht
+zu sehr in die Tiefe gehen und nur von meinen ersten Eindrücken berichten.
+Die sind aber sehr gut. Der Editor ist schnell, bringt viele Funktionen
+mit, und bietet eine wirklich gute Auswahl an Erweiterungen.&lt;/p&gt;
+&lt;p&gt;Für alle Anwendungsfälle, in denen ich außerhalb von Visual Studio einen
+Editor benötige, werde ich in Zukunft mit atom arbeiten. Vielleicht versuche
+ich mich auch mal selbst an einem Atom Paket, z.B. um einfacher mit
+Wintersmith Blogbeiträge zu erstellen und zu veröffentlichen.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Sleep mit nur einem Klick direkt aus der Task-Leiste</title>
       <link>http://localhost:9090/articles/sleep-in-der-taskleiste/</link>
       <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
@@ -73,35 +102,6 @@ läuft auf &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;. Gehos
 &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ich arbeite immer noch gern mit ASP.NET und finde, dass ASP.NET eine tolle
 und mächtige Platform ist. Aber ich möchte auch mal etwas neues ausprobieren.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Atom.io, ein moderner Ersatz für Notepad</title>
-      <link>http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</link>
-      <pubDate>Sat, 24 Jan 2015 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:9090/articles/atom-moderner-ersatz-fuer-notepad/</guid>
-      <author></author>
-      <description>&lt;p&gt;Alternativen zu Notepad gibt es viele. Mit atom.io gibt es nun einen weiteren
-Editor auf Basis aktueller Technologien (Web / Javascript) und mit vielen
-Erweiterungsmöglichkeiten. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;atom.png&quot; class=&quot;wide&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://atom.io&quot;&gt;Atom.io&lt;/a&gt; ist ein Editor, der auf Web-Technologien basiert.
-Die Oberfläche besteht aus HTML, CSS und JavaScript Code, im Hintergrund
-kommt Node.js zum Einsatz. Atom ist vor allem auf Anpassbarkeit und
-Erweiterbarkeit ausgelegt. In der Basisinstallation besteht Atom bereits
-aus ca. 70 Modulen (Packages). Weitere lassen sich einfach und Bequem über eine
-Paketverwaltung dazu installieren. Dabei ist die Auswahl sehr groß. Sucht
-man z.B. ein Paket, das CSS Farbangaben direkt im Editor als Farbe anzeigt,
-kann man sich gleich zwischen mehreren Varianten entscheiden.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;atom-packages.png&quot; class=&quot;wide&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Atom teste ich erst seit einigen Tagen, von daher kann ich noch nicht
-zu sehr in die Tiefe gehen und nur von meinen ersten Eindrücken berichten.
-Die sind aber sehr gut. Der Editor ist schnell, bringt viele Funktionen
-mit, und bietet eine wirklich gute Auswahl an Erweiterungen.&lt;/p&gt;
-&lt;p&gt;Für alle Anwendungsfälle, in denen ich außerhalb von Visual Studio einen
-Editor benötige, werde ich in Zukunft mit atom arbeiten. Vielleicht versuche
-ich mich auch mal selbst an einem Atom Paket, z.B. um einfacher mit
-Wintersmith Blogbeiträge zu erstellen und zu veröffentlichen.&lt;/p&gt;
 </description>
     </item>
     <item>

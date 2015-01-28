@@ -18,7 +18,7 @@ body {
 }
 
 .content-wrap {
-  width: 55em;
+  width: 770px;
   margin: 0;
   margin-right: 400px;
   margin-left: auto;
@@ -422,4 +422,88 @@ code.lang-markdown .bullet {
 
 #disqus_thread {
   padding: 1.5em;
+}
+
+@media all and (max-width: 1570px) {
+  body {
+    font-size: 14px;
+  }
+
+  .header h1 {
+    font-size: 1.8em;
+  }
+
+  h1 {
+    font-size: 1.2em;
+  }
+
+  h2 {
+    font-size: 1.0em;
+  }
+
+  .content-wrap {
+    width: 770px;
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media all and (max-width: 770px) {
+  body {
+    font-size: 12px;
+  }
+
+  .header h1 {
+    font-size: 1.8em;
+  }
+
+  h1 {
+    font-size: 1.2em;
+  }
+
+  h2 {
+    font-size: 1.0em;
+    margin-bottom: 1.0em;
+  }
+
+  .article header h2 {
+    padding: 0;
+  }
+
+  .content-wrap {
+    width: 100%;
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .article {
+    margin: 0;
+    padding: 1em 1.5em 1em 1em;
+  }
+
+  p {
+    padding-bottom: 1.0em;
+  }
+}
+
+@media all and (max-width: 450px) {
+  body {
+    background-image: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .content-wrap {
+    margin: 0;
+  }
+
+  .content-inner {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    background: #ffffff;
+  }
 }

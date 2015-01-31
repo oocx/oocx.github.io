@@ -5,9 +5,60 @@
     <atom:link href="http://www.outofcoffeeexception.de/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.outofcoffeeexception.de</link>
     <description>Ein Blog über Segelfliegen und Software-Entwicklung</description>
-    <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
+    <pubDate>Sat, 31 Jan 2015 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>de</language>
+    <item>
+      <title>Eindrücke von der OOP 2015</title>
+      <link>http://www.outofcoffeeexception.de/articles/eindruecke-von-der-oop-2015/</link>
+      <pubDate>Sat, 31 Jan 2015 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://www.outofcoffeeexception.de/articles/eindruecke-von-der-oop-2015/</guid>
+      <author></author>
+      <description>&lt;p&gt;Auch in diesem Jahr war ich wieder für drei Tage auf der OOP in München.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unter dem Motto “Software Meets Business” bietet die &lt;a href=&quot;http://www.oop-konferenz.de&quot;&gt;OOP Konferenz&lt;/a&gt;
+Vorträge zu verschiedensten Themen aus der Software-Entwicklung. Es geht auf
+der OOP nicht in erster Linie um eine bestimmte Plattform oder Technologie,
+sondern um allgemeinere Themen wie agile Methoden oder Software-Architektur.&lt;/p&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06173.JPG&quot; data-size=&quot;5184x3888&quot; &gt;
+      &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06173.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Im Ausstellungsbereich wurde ein Tesla ausgestellt.&quot;  
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06175.JPG&quot; data-size=&quot;5184x3888&quot; &gt;
+      &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06175.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Sieht aus wie die Brücke der Enterprise, ist aber der Tesla von innen.&quot;/&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06216.JPG&quot; data-size=&quot;3888x5184&quot;&gt;
+      &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06216.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Einige Sessions sowie die Keynotes wurden live als Grafik protokolliert. Hier läuft gerade die Keynote zum Thema 'Internet of Things'. Es gibt tatächlich schon Gabeln mit Sensoren, die auswerten, wie man isst.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06229.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06229.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Es gab wieder viele Stände von Softwareherstellern und Dienstleistern. Sehr enttäuschend war der Microsoft Stand, der von SOS Software und AIT besetzt wurde. Eigentlich wollte ich mich über Visual Studio Release Management informieren, aber es gab niemanden am Stand, der mir darüber etwas erzählen konnte.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06243.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06243.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Am ersten Abend gab es Abendprogramm inklusive Verpflegung.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06255.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06255.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Wie auch letztes Jahr wurden im ultimativen IT Stammtisch verschiedene IT Themen aus dem letzten Jahr humorvoll besprochen. Dazu gab es Bier und Chips.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06266.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06266.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Einer der interessanteren Vorträge. Bei Kegon habe ich später bei einer Verlosung noch eine Schulung gewonnen.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06270.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06270.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;In diesem Raum fanden die Keynotes statt, hier das Thema 'Coding Culture'. Sven Peters über die Entwicklerkultur bei Atlassian.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06280.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06280.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Über das Buch ganz rechts hatte ich ja gerade erst gebloggt. Irgendwie verfolgt es mich, ständig taucht es in Blogs und Artikeln auf und hier nun auch auf der OOP. Das zweite von rechts habe ich direkt bestellt (bei dem Cover...), die beiden anderen fehlen noch in meiner Sammlung.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06290.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06290.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;In der Keynote von Tom DeMarco wurde es philosopisch.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06300.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06300.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fragen zu den Keynotes konnte man per Smartphone online stellen. Außer als Windows Phone 7 Nutzer. Microsoft bietet da keinen aktuelleren Browser als den IE 9 an, somit funktionieren viele aktuelle Web Seiten nicht mehr.&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;/articles/eindruecke-von-der-oop-2015/DSC06334.JPG&quot; data-size=&quot;5184x3888&quot;&gt;
+    &lt;img src=&quot;/articles/eindruecke-von-der-oop-2015/t/DSC06334.JPG&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Robert C. Martin, bekannt für 'Clean Code'. Seine Keynote war sehr unterhaltsam, ein Rückblick über verschiedene Themen der Software-Entwicklung.&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
     <item>
       <title>Atom.io, ein moderner Ersatz für Notepad</title>
       <link>http://www.outofcoffeeexception.de/articles/atom-moderner-ersatz-fuer-notepad/</link>

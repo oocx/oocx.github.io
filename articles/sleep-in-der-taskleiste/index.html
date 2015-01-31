@@ -7,8 +7,9 @@
     <title>Sleep mit nur einem Klick direkt aus der Task-Leiste - OutOfCoffeeException 2.0
     </title>
     <link rel="alternate" href="http://www.outofcoffeeexception.de/feed.xml" type="application/rss+xml" title="Ein Blog über Segelfliegen und Software-Entwicklung">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/photoswipe.css">
+    <link rel="stylesheet" href="/css/default-skin.css">
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -89,5 +90,43 @@ speichern kann, musste ich das Icon noch mit <a href="http://www.convertico.com/
         </footer>
       </div>
     </div>
+        <div tabindex="-1" role="dialog" aria-hidden="true" class="pswp">
+          <div class="pswp__bg"></div>
+          <div class="pswp__scroll-wrap">
+            <div class="pswp__container">
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+            </div>
+            <div class="pswp__ui">pswp__ui--hidden
+              <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <div title="Close (Esc)" class="pswp__button pswp__button--close"></div>
+                <div title="Share" class="pswp__button pswp__button--share"></div>
+                <div title="Toggle fullscreen" class="pswp__button pswp__button--fs"></div>
+                <div title="Zoom in/out" class="pswp__button pswp__button--zoom"></div>
+                <div class="pswp__preloader">
+                  <div class="pswp__preloader__icn">
+                    <div class="pswp__preloader__cut">
+                      <div class="pswp__preloader__donut"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+              </div>
+              <div title="Previous (arrow left)" class="pswp__button pswp__button--arrow--left"></div>
+              <div title="Next (arrow right)" class="pswp__button pswp__button--arrow--right"></div>
+              <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="/script/photoswipe.min.js"></script>
+    <script src="/script/photoswipe-ui-default.min.js"></script>
+    <script src="/script/photoswipe-dom.js"></script>
   </body>
 </html>

@@ -18,7 +18,7 @@ body {
 }
 
 .content-wrap {
-  width: 770px;
+  width: 55em;
   margin: 0;
   margin-right: 400px;
   margin-left: auto;
@@ -261,6 +261,9 @@ footer .copy, footer .copy a {
   margin-right: auto;
 }
 
+.gallery a {
+  text-decoration: none;
+}
 
 .more, .date {
   font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
@@ -384,44 +387,15 @@ code.lang-markdown .bullet {
   color: #bbb;
 }
 
-/* Tomorrow Theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-/* Original theme - https://github.com/chriskempson/tomorrow-theme */
-/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
-.tomorrow-comment, pre .comment, pre .title {
-  color: #8e908c;
-}
-
-.tomorrow-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
-  color: #c82829;
-}
-
-.tomorrow-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
-  color: #f5871f;
-}
-
-.tomorrow-yellow, pre .class, pre .ruby .class .title, pre .css .rules .attribute {
-  color: #eab700;
-}
-
-.tomorrow-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
-  color: #718c00;
-}
-
-.tomorrow-aqua, pre .css .hexcolor {
-  color: #3e999f;
-}
-
-.tomorrow-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
-  color: #4271ae;
-}
-
-.tomorrow-purple, pre .keyword, pre .javascript .function {
-  color: #8959a8;
-}
 
 #disqus_thread {
   padding: 1.5em;
+}
+
+.pswp__caption__center {
+  font-size: 14pt !important;
+  width: 750px !important;
+  max-width: 750px !important;
 }
 
 @media all and (max-width: 1570px) {
@@ -450,6 +424,12 @@ code.lang-markdown .bullet {
 }
 
 @media all and (max-width: 770px) {
+
+  .pswp__caption__center {
+    font-size: 14pt !important;
+    width: 650px !important;
+    max-width: 100% !important;
+  }
   body {
     font-size: 12px;
   }
@@ -488,7 +468,16 @@ code.lang-markdown .bullet {
   }
 }
 
+
+
 @media all and (max-width: 450px) {
+
+  .pswp__caption__center {
+    font-size: 14pt !important;
+    width: 400px !important;
+    max-width: 100% !important;
+  }
+
   body {
     background-image: none;
     margin: 0;

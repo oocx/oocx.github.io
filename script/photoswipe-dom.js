@@ -87,8 +87,8 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 
 
-    if(index >= 0) {
-      openPhotoSwipe( index, clickedGallery );
+    if(index >= 1) {
+      openPhotoSwipe( index -1, clickedGallery );
     }
     return false;
   };
